@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/home.unity
+    guid: 5f351278b7a26495096c2249935d2510
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/basic.unity
+    guid: 395b99e89d9394104b57a77acd4a8a95
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/basicleft.unity
+    guid: b43c3b721297141e8a8ce5f2f10b11da
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/intermediate.unity
+    guid: b97abde4a953e4639b4ef8f979d038f7
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/intermediateleft.unity
+    guid: da8f2484ec7874e0b9ab92f9dac430f8
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/advance.unity
+    guid: 3f1ef5cbbedc74a60b73f825abd4e4c9
+  - enabled: 1
+    path: Assets/ThirdParty/Ultraleap/Tracking/Examples/2. Non-XR Examples/advanceleft.unity
+    guid: 2d67a6af99cd14740bfbbb1f84d862bf
+  m_configObjects: {}
